@@ -1,0 +1,36 @@
+.container-shortener {
+    height: 500px;
+    background-color: bisque;
+}
+
+.logo-react{
+    margin-left: 600px;
+    width: 250px;
+}
+
+#txtInputurl{
+    width: 500px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 500px;
+}
+
+#btnShorten {
+    width: 100px;
+    margin-left: 700px;
+    justify-content: space-evenly;
+    border-radius: 10px;
+}
+
+.shortened-url{
+    width: 500px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 500px;
+    background-color: white;
+}
+
+.btnName{
+    width: 100px;
+    margin-left: 700px;
+}
