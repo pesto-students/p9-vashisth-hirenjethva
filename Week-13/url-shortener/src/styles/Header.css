@@ -1,0 +1,31 @@
+.header-container{
+    display: flex;
+    background-color: aliceblue;
+}
+
+.container-app-name{
+    display: flex;
+    font-size: xx-large;
+}
+
+.container-menu {
+    display: flex;
+    font-size: large;
+    margin: auto;
+}
+
+.container-forms {
+    display: flex;
+    font-size: large;
+}
+
+
+li {
+    display: inline;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
