@@ -3,6 +3,6 @@
     "test": "jest"
   },
   "dependencies": {
-    "jest": "^29.4.3"
+    "jest": "^30.0.0"
   }
 }
